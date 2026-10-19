@@ -1,0 +1,4 @@
+.idea/
+**/*.backup[0-9]*
+**/*ver_alt[0-9]*_[0-9]*W*Alt[0-9]*test[0-9]*W*
+**/tmp00for_*
