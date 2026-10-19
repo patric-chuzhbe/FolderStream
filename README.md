@@ -197,5 +197,4 @@ The directory path must be valid for Windows.
 
 The library filters file names, not file contents, and does not recursively enumerate subdirectories.
 
-[//]: # (qwe)
 The library has been tested on Windows 10 / 11 
